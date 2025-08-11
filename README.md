@@ -61,11 +61,7 @@ Evaluation scripts produce standard classification reports and ROC curves. By de
 
 # Data & Licensing
 
-* **Data:** Due to licensing and scale, raw datasets are **not** included. Please download raw sources and place them in `data/raw/`:
-
-  * ISCX-URL-2016: `[INSERT_LINK_or_INSTRUCTIONS]`
-  * PhishTank: `[INSERT_LINK_or_INSTRUCTIONS]`
-  * Malware Domain Blacklist: `[INSERT_LINK_or_INSTRUCTIONS]`
+* **Data:** Due to licensing and scale, raw datasets are **not** included. Please download from Kaggle [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle&style=flat-square)](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset/data)
 
 * **License:** This project is released under the **MIT License**. See `LICENSE` for details.
 
@@ -85,8 +81,8 @@ Please add tests for new code and document any dataset preprocessing steps.
 
 # Contact & Credits
 
-Author: `[AUTHOR_NAME]`
-Email / Contact: `[CONTACT_PLACEHOLDER]`
+Author: `Adebayo Promise Ayomide`
+Email / Contact: `mesmerizedmonds@gmail.com`
 If you use this code in research or production, please cite this repository.
 
 ---
