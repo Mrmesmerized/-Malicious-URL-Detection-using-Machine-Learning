@@ -33,8 +33,8 @@ Key highlights
 ## Clone
 
 ```bash
-git clone [gh repo clone Mrmesmerized/Malicious-URL-Detection-using-Machine-Learning]
-cd [Malicious-URL-Detection-using-Machine-Learning]
+git clone https://github.com/Mrmesmerized/Malicious-URL-Detection-using-Machine-Learning.git
+cd Malicious-URL-Detection-using-Machine-Learning
 ```
 
 # Project Structure
