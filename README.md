@@ -1,6 +1,6 @@
 # Malicious URL Detection
 
-[![Dataset][dataset-badge]][DATASET_LINK] \[![Open in Colab][colab-badge]]\[COLAB\_LINK] [![License: MIT][license-badge]][LICENSE_FILE]
+[![Dataset][dataset-badge]][[DATASET_LINK](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset/data)] \[![Open in Colab][colab-badge]]\[[COLAB\_LINK](https://colab.research.google.com/drive/1kSgwDW8XVo6Gi86HGjHM6YCaWaGk_VBM?usp=sharing)]
 
 **A robust, scalable SVM + Random Forest ensemble for real-time malicious URL detection.** Trained on \~651K URLs (benign, defacement, phishing, malware) with SMOTE balancing and multi-level features (URL, domain, TF-IDF, CTI). Achieves \~92% accuracy and 0.94 AUC-ROC.
 
