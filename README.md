@@ -81,7 +81,7 @@ Please add tests for new code and document any dataset preprocessing steps.
 
 # Contact & Credits
 
-Author: `Adebayo Promise Ayomide`
+Author: `Promise Ayomide Adebayo`
 Email / Contact: `mesmerizedmonds@gmail.com`
 If you use this code in research or production, please cite this repository.
 
