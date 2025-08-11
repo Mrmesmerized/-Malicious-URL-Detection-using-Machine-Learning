@@ -153,14 +153,3 @@ Email / Contact: `[CONTACT_PLACEHOLDER]`
 If you use this code in research or production, please cite this repository.
 
 ---
-
-# Placeholders — please provide:
-
-* `[DATASET_LINK]` — dataset badge URL or cloud storage link.
-* `[COLAB_LINK]` — Colab notebook link (if available).
-* `[GITHUB_REPO_URL]` and `[REPO_NAME]`.
-* `[PATH_TO_CSV_OR_FOLDER]` for training.
-* `[AUTHOR_NAME]`, `[CONTACT_PLACEHOLDER]`.
-* Confirm whether you want the `models/` folder to include pre-trained artifacts (if so, provide them or a download link).
-
----
