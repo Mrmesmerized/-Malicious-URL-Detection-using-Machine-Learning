@@ -33,8 +33,8 @@ Key highlights
 ## Clone
 
 ```bash
-git clone [GITHUB_REPO_URL]
-cd [REPO_NAME]
+git clone [gh repo clone Mrmesmerized/Malicious-URL-Detection-using-Machine-Learning]
+cd [Malicious-URL-Detection-using-Machine-Learning]
 ```
 
 # Project Structure (example)
