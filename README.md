@@ -37,26 +37,19 @@ git clone [gh repo clone Mrmesmerized/Malicious-URL-Detection-using-Machine-Lear
 cd [Malicious-URL-Detection-using-Machine-Learning]
 ```
 
-# Project Structure (example)
+# Project Structure
 
 ```
-├─ data/                     # raw and processed data (not included)
-├─ notebooks/                # analysis and Colab-ready notebooks
-├─ scripts/
-│  ├─ train.py
-│  ├─ predict.py
-│  └─ batch_predict.py
-├─ models/                   # saved model artifacts (large files excluded)
-├─ src/
-│  ├─ featurize.py
-│  ├─ dataset.py
-│  └─ utils.py
-├─ requirements.txt
+├─ Preprocessing Objects/
+│  ├─ feature_columns.joblib
+│  ├─ label_index.joblib
+│  └─ pri_domain_index.joblib
+├─ notebooks/             
+│  └─ MUD_MLT.ipynb              
 ├─ LICENSE
-└─ README.md
+├─ README.md
+└─ requirements.txt
 ```
-
-*(Adjust paths/files to match this repo.)*
 
 ---
 
