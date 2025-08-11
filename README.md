@@ -37,63 +37,6 @@ git clone [GITHUB_REPO_URL]
 cd [REPO_NAME]
 ```
 
-## Virtual environment & install
-
-```bash
-python -m venv env
-# Activate:
-# Windows:
-# .\env\Scripts\activate
-# macOS / Linux:
-source env/bin/activate
-
-pip install -r requirements.txt
-```
-
-## Run interactively (Colab)
-
-Click the badge above or open:
-`[COLAB_LINK]` — contains an executable notebook with preprocessing, training, and demo inference.
-
----
-
-# Usage
-
-## Training (local)
-
-```bash
-python scripts/train.py \
-  --data-path [PATH_TO_CSV_OR_FOLDER] \
-  --output models/ensemble.pkl \
-  --smote True \
-  --rf-trees 100 \
-  --svm-kernel rbf
-```
-
-(Placeholders in brackets require your input.)
-
-## Inference (single URL)
-
-```bash
-python scripts/predict.py --model models/ensemble.pkl --url "http://example.com/login"
-```
-
-## Batch inference
-
-```bash
-python scripts/batch_predict.py --model models/ensemble.pkl --input urls_to_score.csv --output predictions.csv
-```
-
----
-
-# Notebooks & Demos
-
-* `notebooks/` — EDA, feature engineering walkthrough, model training notebook.
-* `notebooks/demo.ipynb` — simple demo and visualization of metrics and feature importances.
-* `notebooks/README.md` — brief guide to run notebooks.
-
----
-
 # Project Structure (example)
 
 ```
